@@ -1,4 +1,5 @@
 #!/bin/bash
+Vou ter muito sucesso na programação!
 
 #5
 PHRASE="shell script usando estrutura repetição for terminal"
