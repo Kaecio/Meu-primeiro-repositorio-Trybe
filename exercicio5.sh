@@ -1,5 +1,6 @@
 #!/bin/bash
-Vou ter muito sucesso na programação!
+ shell-script-changes
+Eu sou Trybe e quero aprender a programar
 
 #5
 PHRASE="shell script usando estrutura repetição for terminal"
